@@ -1,0 +1,19 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "First app electron tutorial",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "electron-app"
+  },
+  "author": "Nathan L",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^32.1.2"
+  }
+}
